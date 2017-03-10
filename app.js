@@ -3,5 +3,7 @@
  */
 var myName = "Drake";
 var myAge = 20;
-myName = 30;
+var anything;
+anything = 12;
+// myName = 30; 
 //# sourceMappingURL=app.js.map
